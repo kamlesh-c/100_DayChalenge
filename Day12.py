@@ -10,5 +10,6 @@ print("Negtive slicing last letter",name[-1])
 print("Negative slicing",name[-3:0])
 for charetor in name:
     print(charetor)
+print("Short excersise ")
 a= "Harry"
 print (a[-4:-2])
