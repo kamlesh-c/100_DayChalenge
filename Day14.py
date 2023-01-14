@@ -25,4 +25,4 @@ elif (cost==0):
     print("we can buy apple but budget is over aftet this buing ")
 else:
     print("Apple are very costly ")
-print("If condition ends herere ")
+print("If condition ends here ")
