@@ -19,7 +19,7 @@ price=  int(input("Enter apple prise:"))
 cost = budget-price
 if (cost>0):
     print ("apple's are cheap we can buy")
-    if (cost==1):
+    if(cost == 1):
         print("only 1 rs save")
 elif (cost==0):
     print("we can buy apple but budget is over aftet this buing ")
