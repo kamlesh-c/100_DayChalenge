@@ -11,7 +11,7 @@ print("out of loop")
 for i in range (10):
     print("This is i", i)
     if (i == 5 ):
-        print("in if ")
+        print("in if statement  ")
         continue
     print("after if statement")
 print("after for loop")
