@@ -33,3 +33,7 @@ print("check 7 is presnt in list : ", mix)
 print (mix[:])
 print (mix[:-1])
 print (mix[1:3])
+#genrate list on fly(list comprehencive
+list1= []
+list1= [ i for i in range(10)]
+print(list1)
