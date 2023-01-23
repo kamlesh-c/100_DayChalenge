@@ -29,7 +29,7 @@ print ("List a = ", a)
 l1 = [100,200,300]
 print ("List a = ", l1)
 m1 = [777,333,444]
-print("adding or concating two list")
+print("adding or concating two or more list")
 k = l1 + m1 + a
 print (k)
 print (k.count(100))
